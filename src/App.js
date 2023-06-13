@@ -1,5 +1,11 @@
+import AddBros from "./components/AddBros";
+
 function App() {
-  return <div></div>;
+  return (
+    <div>
+      <AddBros />
+    </div>
+  );
 }
 
 export default App;
