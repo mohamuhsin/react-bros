@@ -20,7 +20,7 @@ const AddBros = (props) => {
     event.preventDefault();
     setEnteredAge("");
     setEnteredName("");
-    props.onAddBros(enteredName, enteredAge);
+    props.onAddBro(enteredName, enteredAge);
   };
 
   const nameHandler = (event) => {
