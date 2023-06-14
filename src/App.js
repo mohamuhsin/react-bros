@@ -1,4 +1,4 @@
-import AddBros from "./components/AddBros";
+import AddBros from "./components/Bros/AddBros";
 
 function App() {
   return (
